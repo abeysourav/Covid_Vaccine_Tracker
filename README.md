@@ -24,3 +24,4 @@ People vaccinated per hundred: This could show the vaccination rate per hundred 
 The dashboard will also include data on other factors that may affect vaccination rates, such as age, gender, race, ethnicity, and socioeconomic status.
 
 The dashboard will be updated on a regular basis to reflect the latest data. It will also be made available in multiple languages. The dashboard will be designed to be user-friendly and accessible to a wide audience.
+![WhatsApp Image 2023-07-13 at 19 38 29](https://github.com/abeysourav/Covid_Vaccine_Tracker/assets/105174936/b36c9225-2541-43ee-9e50-94ae3ec1fd95)
